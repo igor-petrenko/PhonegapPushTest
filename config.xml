@@ -57,9 +57,9 @@
     <icon gap:platform="ios" height="120" src="ios/icon-small-40@3x.png" width="120" />
     <icon gap:platform="ios" height="50" src="ios/icon-small-50.png" width="50" />
     <icon gap:platform="ios" height="100" src="ios/icon-small-50@2x.png" width="100" />
-    <icon gap:platform="ios" height="27" src="ios/ios/icon-small.png" width="29" />
-    <icon gap:platform="ios" height="58" src="ios/ios/icon-small@2x.png" width="58" />
-    <icon gap:platform="ios" height="87" src="ios/ios/icon-small@3x.png" width="87" />
+    <icon gap:platform="ios" height="27" src="ios/icon-small.png" width="29" />
+    <icon gap:platform="ios" height="58" src="ios/icon-small@2x.png" width="58" />
+    <icon gap:platform="ios" height="87" src="ios/icon-small@3x.png" width="87" />
     <icon gap:platform="ios" height="57" src="ios/icon.png" width="57" />
     <icon gap:platform="ios" height="114" role="default" src="ios/icon@2x.png" width="114" />
     <icon gap:platform="android" gap:qualifier="mdpi" height="48" src="android/48.png" width="48" />
